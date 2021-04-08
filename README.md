@@ -3,4 +3,4 @@
 
  For details on my process, techniques, and results please refer to [my paper](https://github.com/bjhammack/masters-thesis-alzheimers-detection/blob/main/thesis_paper.docx?raw=true).
 
- Data and exported models have been excluded to their sheer size not being ideal for GitHub.
+ Data and exported models have been excluded due to their sheer size not being ideal for GitHub.
